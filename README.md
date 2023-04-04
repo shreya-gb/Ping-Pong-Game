@@ -1,7 +1,7 @@
 # Python Games
 
 ## Mini Projects
-1. Scraping GitHub users' profile images
+1. Display users' profile images
 2. Rename Files
 
 ## Games
