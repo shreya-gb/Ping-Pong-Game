@@ -4,3 +4,4 @@
 1. Scraping GitHub users' profile images 
 
 ## Games
+1. Ping-Pong Game
